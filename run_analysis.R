@@ -1,5 +1,5 @@
-## Author   : 	Pankesh Bamotra
-## Date		  :	  April 24, 2014
+## Author	: 	Pankesh Bamotra
+## Date		:	  April 24, 2014
 
 
 # 1. Merges the training and the test sets to create one data set.
